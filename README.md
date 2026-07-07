@@ -1,32 +1,16 @@
-### 
-<h1>Hi, I'm Aaron 😎👋🏽 </h1>
-<h3>I´m Frontend Developer</h3>
-<br/>
+## Hi, I'm Aaron 👋
 
-```javascript
-const aaronch = {
-  code: [ Javascript, Typescript, HTML, CSS ],
-  tools: [ Angular, React, SASS,  ]
-}
-```
+**Senior Frontend Engineer** — Angular · TypeScript · RxJS · SASS
 
-You can find me 🌍🌌:
-- [aaronch.com](https://aaronch.com/)
-- [Twitter](https://twitter.com/AaronChacon)
- 
+I turn complex product requirements into clean, scalable UIs. 6+ years building web apps for tech companies and startups, with deep focus on **design systems**, reusable component libraries and **fintech / KYC-onboarding** interfaces.
 
-<!--
-### Hi there 😎🖖🏽👋🏽
-**AaronChacon/aaronchacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 4+ years building web applications for tech companies and startups (fully remote)
+- 🚀 Shipping my own SaaS products on the side — **OurMemory** and **Jurisly**
+- 🧰 Angular · TypeScript · RxJS · SASS · Tailwind · Nx · Storybook · Jest · Firebase · Astro
+- 🌱 Currently sharpening my backend skills to go full-stack
+- 📍 Madrid (CET) · Open to remote roles
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Where to find me
+- 🌐 Website: [aaronch.dev](https://aaronch.dev)
+- 💼 LinkedIn: [in/aaronchacon](https://www.linkedin.com/in/aaronchacon)
+- 📫 Email: aaronch.dev@gmail.com
